@@ -4,7 +4,7 @@
 
 ### Primeiros passos em back-end e criar soluções corporativas escalaveis
 
-(___)
+_______
 
 - Boas vindas / Introdução
 
@@ -16,4 +16,4 @@
 
 - SQL Server - Básico
 
-(***)
+****
